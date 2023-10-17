@@ -13,9 +13,14 @@ The ESP8266 is a popular and versatile Wi-Fi module used in various applications
 
 
 # Software Description
+## Install and configure Arduino IDE
+Make sure you use a version of the Arduino IDE which is supported by the ESP8266 platform. Follow the tutorial on our documentation platform.
 
+## Install libraries in Arduino IDE
+Install the following libraries with your Arduino Library Manager in Sketch > Include Library > Manage Libraries...
 
 ## Blynk Platform Operation:
+
 
 ![yyy](https://github.com/yasseffar/Station-Meteo/assets/101462588/9c8d77bf-cf7b-4040-8ce9-f9a7efd96d95)
 
